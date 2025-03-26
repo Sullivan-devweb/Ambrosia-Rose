@@ -1,0 +1,58 @@
+/* badge_premium.css */
+
+/* Appliquer position relative à tous les conteneurs de profil */
+.profile-item {
+    position: relative;
+}
+
+/* Animation pour l'effet shimmer */
+@keyframes shimmer {
+    0% {
+        background-position: -200%;
+    }
+    100% {
+        background-position: 200%;
+    }
+}
+
+/* Badge Premium en version plus petite */
+.premium-badge {
+    display: inline-block;
+    background: linear-gradient(135deg, #EEC4C9, #FAD4E5, #EEC4C9);
+    background-size: 300% 300%;
+    animation: shimmer 3s ease infinite;
+    
+    color: #fff;
+    font-weight: bold;
+    font-size: 0.75rem;       /* Taille de police réduite */
+    padding: 0.25em 0.4em;     /* Padding réduit */
+    border-radius: 8px;
+    text-transform: uppercase;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3);
+    
+    border: 1px solid rgba(255, 255, 255, 0.6);  /* Bordure légère */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3), 0 0 4px rgba(255, 255, 255, 0.3);
+    
+    /* Positionnement en haut à droite du conteneur */
+    position: absolute;
+    top: 8px;
+    right: 8px;
+    
+    /* Transition pour un effet subtil au survol */
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.premium-badge:hover {
+    transform: scale(1.1);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4), 0 0 8px rgba(255, 255, 255, 0.5);
+}
+
+.detailprofile .profile-photo {
+    position: relative;
+}
+
+.detailprofile .profile-photo .premium-badge {
+    right: -55px; /* Décalage uniquement pour detailprofile */
+}
+
+
