@@ -11,6 +11,7 @@ Ambrosia Rose est une plateforme de rencontre innovante conçue pour offrir une 
 - 💬 **Messagerie instantanée** : Discussions en temps réel avec notifications dynamiques.
 - 🔔 **Système de notifications** : Alertes pour les nouveaux messages, visites de profil et matchs.
 - 🛡️ **Sécurité renforcée** : Protection avancée des données pour garantir une expérience sûre et sereine.
+- 🌍 **Intégration API GeoNames** : Utilisation de l'API GeoNames pour améliorer la précision de la localisation et les fonctionnalités de recherche géographique.
 
 ## 🛠️ Installation
 Installez Ambrosia Rose en local en suivant ces étapes :
@@ -29,7 +30,7 @@ Installez Ambrosia Rose en local en suivant ces étapes :
 3. Configurez l’environnement :
    ```bash
    cp .env.example .env
-   # Puis modifiez le fichier .env avec vos paramètres
+   # Puis modifiez le fichier .env avec vos paramètres, y compris votre clé API GeoNames
    ```
 
 4. Lancez l’application :
@@ -38,6 +39,15 @@ Installez Ambrosia Rose en local en suivant ces étapes :
    ```
 
 📍 Une fois lancée, l’application est accessible sur [http://localhost:3000](http://localhost:3000).
+
+## 🌍 Configuration de l'API GeoNames
+Pour utiliser l'API GeoNames, vous devez obtenir une clé API et la configurer dans votre fichier `.env`.
+
+1. Inscrivez-vous sur [GeoNames](http://www.geonames.org/) et obtenez une clé API.
+2. Ajoutez votre clé API au fichier `.env` :
+   ```plaintext
+   GEONAMES_USERNAME=your_geonames_username
+   ```
 
 ## 🤝 Contribution
 Nous accueillons avec plaisir toutes les contributions !
