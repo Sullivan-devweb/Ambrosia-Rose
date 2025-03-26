@@ -1,0 +1,382 @@
+/* Style général de la page */
+body {
+    font-family: Arial, sans-serif;
+    color: #001F54;
+    background-color: #FFFFFF;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+body::before {
+    content: "";
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: radial-gradient(circle at 20% 30%, rgba(238, 196, 201, 0.2) 5%, transparent 20%),
+                      radial-gradient(circle at 80% 50%, rgba(0, 31, 84, 0.1) 7%, transparent 30%),
+                      radial-gradient(circle at 50% 80%, rgba(238, 196, 201, 0.1) 10%, transparent 40%);
+    z-index: -1;
+}
+
+/* Conteneur principal */
+.signup-bg {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 40px;
+    background: #FFFFFF;
+    border: 2px solid #F8A5C2;
+    border-radius: 15px;
+    box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.1);
+    text-align: left;
+}
+
+/* Titres des sections */
+.signup-bg h2 {
+    font-size: 1.8em;
+    margin-bottom: 40px;
+    color: #001F54;
+    text-align: center;
+}
+
+/* Conteneur des éléments */
+.profile-photo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 40px;
+}
+
+/* Prévisualisation des fichiers */
+.profile-photo img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 15px;
+    object-fit: cover;
+    border: 2px solid #F8A5C2;
+}
+
+/* Personnalisation des labels */
+input[type="file"] {
+    display: none;
+}
+
+/* Boutons génériques */
+.custom-btn {
+    display: inline-block;
+    background-color: #F8A5C2;
+    color: #FFF;
+    padding: 12px 30px;
+    border-radius: 25px;
+    cursor: pointer;
+    font-size: 1.1em;
+    text-decoration: none;
+    transition: all 0.3s ease;
+    text-align: center;
+    border: none;
+    margin-top: 10px;
+}
+
+.custom-btn:hover {
+    background-color: #EEC4C9;
+    color: #FFF;
+}
+
+/* Amélioration de l'affichage des centres d'intérêt */
+.interests-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+/* Élément individuel dans la galerie */
+.gallery-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.gallery-item {
+    position: relative;
+    width: 120px;
+    height: 120px;
+    border: 2px solid #F8A5C2;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.gallery-item img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 10px;
+}
+
+/* Message affiché s'il n'y a pas d'images */
+.no-images-message {
+    font-size: 1.2em;
+    color: #999;
+    text-align: center;
+    margin-top: 10px;
+}
+
+/* Bouton de suppression */
+.delete-image-btn {
+    position: absolute;
+    top: 8px;
+    right: 8px;
+    background-color: #F8A5C2;
+    color: white;
+    border: none;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: all 0.3s ease;
+}
+
+.delete-image-btn:hover {
+    background-color: #EEC4C9;
+    transform: scale(1.1);
+}
+
+/* Bouton Ajouter des images */
+label[for="galerie_images"] {
+    display: inline-block;
+    background-color: #F8A5C2;
+    color: #FFF;
+    padding: 12px 30px;
+    border-radius: 25px;
+    cursor: pointer;
+    font-size: 1.1em;
+    text-align: center;
+    text-decoration: none;
+    transition: all 0.3s ease;
+    border: none;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    margin-top: 15px;
+}
+
+label[for="galerie_images"]:hover {
+    background-color: #EEC4C9;
+    color: #FFF;
+    box-shadow: 0px 6px 15px rgba(0, 0, 0, 0.2);
+}
+
+/* Bouton Choisir une photo */
+.btn-primary {
+    background-color: #F8A5C2 !important;
+    border-color: #F8A5C2 !important;
+    color: #FFF !important;
+}
+
+.btn-primary:hover {
+    background-color: #EEC4C9 !important;
+    border-color: #EEC4C9 !important;
+    color: #FFF !important;
+}
+
+/* Bouton Mettre à jour */
+.btn-success {
+    background-color: #F8A5C2;
+    border-color: #F8A5C2;
+    color: #FFF;
+    font-size: 1.2em;
+    padding: 15px;
+    border-radius: 30px;
+    transition: all 0.3s ease;
+    width: 100%;
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+.btn-success:hover {
+    background-color: #EEC4C9;
+    border-color: #EEC4C9;
+    color: #FFF;
+}
+
+/* Champ de formulaire responsif */
+.small-input, .small-password-input {
+    width: 100%; /* S'adapte à la largeur de l'écran */
+    max-width: 450px; /* Limite la largeur pour les grands écrans */
+    height: 35px;
+    font-size: 14px;
+    padding: 5px 10px; /* Ajoute un peu d'espace intérieur */
+    margin: 5px auto;
+    display: block;
+    text-align: left; /* Alignement du texte à gauche */
+    border: 1px solid #ccc; /* Ajoute une bordure discrète */
+    border-radius: 5px; /* Coins légèrement arrondis */
+}
+
+/* Ajustement pour les textarea */
+textarea.small-input {
+    height: 100px;
+    resize: vertical; /* Permet à l'utilisateur d'agrandir si besoin */
+}
+
+/* Ajustement du bouton en responsive */
+.small-button {
+    width: auto; /* Ajuste automatiquement la largeur */
+    max-width: 250px; /* Limite la taille */
+    font-size: 14px;
+    padding: 10px 15px;
+    border-radius: 20px;
+    display: block;
+    margin: 10px auto;
+}
+
+.small-checkbox {
+    transform: scale(0.9); /* Légère réduction */
+    margin-right: 5px;
+}
+
+.small-label {
+    font-size: 14px;
+}
+
+
+/* Style pour l'image de profil (effet sur le survol) */
+#profile-preview {
+    transition: transform 0.3s ease-in-out;
+}
+
+#profile-preview:hover {
+    transform: scale(1.1);
+}
+
+/* Ajustement de la modale Bootstrap pour mieux afficher l'image */
+.modal-body img {
+    max-width: 100%;  /* L'image ne dépasse jamais la largeur de la modale */
+    max-height: 80vh; /* L'image ne dépasse pas 80% de la hauteur de l'écran */
+    border-radius: 10px; /* Ajout d'un arrondi aux coins */
+}
+
+.description-box {
+    width: 50%; /* Largeur réduite */
+    min-height: 60px; /* Hauteur minimale */
+    max-height: 120px; /* Hauteur maximale */
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 8px;
+    font-size: 14px;
+    resize: none; /* ❌ Désactive le redimensionnement */
+    background-color: #f8f9fa;
+    transition: border-color 0.3s ease-in-out;
+    margin: 0 auto;
+    display: block;
+    overflow: hidden; /* Cache le débordement */
+    white-space: pre-wrap; /* Permet le retour automatique à la ligne */
+}
+
+.description-box:focus {
+    border-color: #007bff;
+    outline: none;
+    background-color: white;
+}
+
+
+/* 🎯 Appliquer uniquement au bouton de suppression dans editprofil.php */
+.delete-account-section {
+    text-align: center;
+    margin-top: 40px; /* 🔹 Ajout d'espace au-dessus du bouton */
+    margin-bottom: 20px; /* 🔹 Ajout d'espace en dessous pour aérer */
+}
+
+.delete-account-section .btn-danger {
+background-color: #dc3545 !important;
+    color: white !important;
+    border: none !important;
+    padding: 12px 30px;
+    font-size: 1.2em;
+    font-weight: bold;
+    border-radius: 25px;
+    width: 100%;
+    max-width: 250px;
+    display: block;
+    margin: 20px auto;
+    box-shadow: 0px 4px 10px rgba(220, 53, 69, 0.3);
+    transition: all 0.3s ease-in-out;
+}
+
+/* 🌟 Effet au survol */
+.delete-account-section .btn-danger:hover {
+    background-color: #c82333 !important;
+    transform: scale(1.05);
+}
+/* ⚡ Effet de clic */
+.delete-account-section .btn-danger:active {
+    transform: scale(0.95);
+    box-shadow: 0px 2px 8px rgba(220, 53, 69, 0.5);
+}
+
+.accordion-button {
+    background-color: white !important; /* Fond blanc */
+    color: black !important; /* Texte noir */
+    border: 1px solid #ccc !important; /* Bordure grise */
+}
+
+.btn-update {
+    background-color: #007bff !important; /* Bleu Bootstrap */
+    border-color: #007bff !important;
+    color: white !important;
+    font-size: 1.2em;
+    padding: 12px 30px;
+    border-radius: 25px;
+    width: 100%;
+    max-width: 250px;
+    display: block;
+    margin: 20px auto;
+    box-shadow: 0px 4px 10px rgba(0, 123, 255, 0.3);
+    transition: all 0.3s ease-in-out;
+}
+
+.btn-update:hover {
+    background-color: #0056b3 !important;
+    border-color: #0056b3 !important;
+    box-shadow: 0px 5px 15px rgba(0, 123, 255, 0.5);
+}
+
+
+/* 🔹 Espacement uniforme */
+.delete-account-section {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.accordion-button:focus {
+    box-shadow: none !important; /* Supprime l'effet d'ombre au clic */
+}
+
+.accordion-button:not(.collapsed) {
+    background-color: #f8f9fa !important; /* Fond légèrement grisé quand ouvert */
+    color: black !important;
+}
+
+.accordion-header {
+    background-color: transparent !important;
+}
+
+.accordion-item {
+    border: 1px solid #ccc !important; /* Bordure pour séparer */
+}

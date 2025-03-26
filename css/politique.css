@@ -1,0 +1,80 @@
+/* Corps de la page */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    color: #001F54; /* Texte principal en bleu foncé */
+    background-color: #F8F9FA; /* Fond légèrement gris */
+}
+
+/* En-tête */
+header {
+    background-color: #001F54; /* Bleu foncé */
+    color: #DDD1BC; /* Texte beige */
+    padding: 20px;
+    text-align: center;
+    border-bottom: 3px solid #EEC4C9; /* Bordure rose en bas */
+}
+
+header h1 {
+    font-size: 2.2em;
+    margin: 0;
+}
+
+/* Sections principales */
+main {
+    padding: 20px;
+    line-height: 1.8;
+}
+
+/* Titres des sections */
+main h2 {
+    color: #001F54; /* Bleu foncé */
+    border-left: 5px solid #EEC4C9; /* Barre rose sur le côté gauche */
+    padding-left: 10px;
+    margin-bottom: 15px;
+    font-size: 1.6em;
+}
+
+/* Paragraphes */
+main p {
+    margin-bottom: 15px;
+    color: #333333; /* Texte en gris foncé */
+}
+
+/* Listes */
+ul {
+    padding-left: 20px;
+    margin-bottom: 15px;
+}
+
+ul li {
+    margin-bottom: 8px;
+    color: #001F54; /* Texte bleu foncé */
+}
+
+/* Liens */
+a {
+    color: #EEC4C9; /* Rose */
+    text-decoration: none;
+    transition: color 0.3s ease, text-decoration 0.3s ease;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #001F54; /* Bleu foncé au survol */
+}
+
+/* Sections individuelles */
+section {
+    margin-bottom: 30px; /* Espacement entre les sections */
+    padding: 15px;
+    background-color: #FFFFFF; /* Fond blanc pour contraster avec le fond général */
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1); /* Effet d'ombre subtil */
+    border-radius: 5px; /* Coins arrondis */
+}
+
+/* Dernière section - Contact */
+section:last-of-type {
+    border: 2px solid #EEC4C9; /* Bordure rose pour attirer l'attention */
+    padding: 20px;
+}

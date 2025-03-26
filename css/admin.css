@@ -1,0 +1,138 @@
+/* ============================================================
+   📌 ISOLATION DE LA PAGE ADMIN
+   Style général pour l'apparence de la section administration
+============================================================= */
+.admin-page {
+    background-color: #f8f9fa;
+    padding: 50px 0;
+}
+
+/* ============================================================
+   📌 TITRE DE SECTION
+   Titre principal de la page admin
+============================================================= */
+.admin-title {
+    font-size: 2rem;
+    font-weight: bold;
+    color: #001F54;
+    margin-bottom: 30px;
+}
+
+/* ============================================================
+   📌 CARTES D'ADMINISTRATION
+   Conteneurs pour les blocs : formulaires, tableaux, etc.
+============================================================= */
+.admin-card {
+    background: white;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.1);
+    transition: 0.3s;
+}
+
+.admin-card:hover {
+    box-shadow: 0px 12px 25px rgba(0, 0, 0, 0.15);
+}
+
+/* ============================================================
+   📌 FORMULAIRES
+   Styles pour les labels et champs des formulaires admin
+============================================================= */
+.admin-form .form-label {
+    font-size: 1rem;
+    font-weight: bold;
+    color: #001F54;
+}
+
+.admin-form .form-control {
+    padding: 12px;
+    border-radius: 8px;
+    border: 1px solid #ddd;
+    transition: all 0.3s ease-in-out;
+}
+
+.admin-form .form-control:focus {
+    border-color: #F8A5C2;
+    box-shadow: 0px 4px 10px rgba(248, 165, 194, 0.3);
+}
+
+/* ============================================================
+   📌 BOUTONS ADMIN
+   Apparence globale de tous les boutons d'action
+============================================================= */
+.admin-btn {
+    background-color: #EEC4C9 !important;   /* Rose clair */
+    color: #001F54 !important;              /* Texte bleu foncé */
+    font-weight: bold !important;
+    border: none !important;
+    padding: 12px !important;
+    border-radius: 8px !important;
+    width: 100%;
+    box-shadow: none !important;
+    transition: all 0.3s ease-in-out !important;
+}
+
+/* 🔁 Effet hover */
+.admin-btn:hover {
+    background-color: #F8A5C2 !important;   /* Rose plus vif */
+    transform: scale(1.05);
+    color: #001F54 !important;
+}
+
+/* 🚫 Suppression du style de focus par défaut Bootstrap */
+.admin-btn:focus, 
+.admin-btn:active {
+    background-color: #EEC4C9 !important;
+    border: none !important;
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+/* 🗑️ Bouton de suppression */
+.btn-danger.admin-btn {
+    padding: 8px 12px !important;
+    border-radius: 5px !important;
+}
+
+/* ============================================================
+   📌 TABLEAU DE DONNÉES
+   Affichage des utilisateurs / contenus admin
+============================================================= */
+.admin-table {
+    margin-top: 20px;
+    background: white;
+    border-radius: 12px;
+    overflow: hidden;
+}
+
+.admin-table thead {
+    background: #001F54;
+    color: white;
+}
+
+.admin-table th, 
+.admin-table td {
+    text-align: center;
+    padding: 12px;
+    border-bottom: 1px solid #ddd;
+}
+
+.admin-table tbody tr:hover {
+    background: #F8A5C2;
+    color: white;
+}
+
+/* ============================================================
+   📱 RESPONSIVE DESIGN
+   Adaptation mobile de certains éléments admin
+============================================================= */
+@media (max-width: 768px) {
+    .admin-title {
+        font-size: 1.8rem;
+    }
+
+    .admin-form .form-label {
+        font-size: 1rem;
+    }
+}
+

@@ -1,0 +1,330 @@
+/* 📌 Style général de la page */
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    color: #001F54;
+    background: linear-gradient(to right, #f8f9fa, #eef2f3); /* Dégradé doux en fond */
+    text-align: center;
+    min-height: 100vh; /* Prend toute la hauteur de l'écran */
+}
+
+/* 🌟 Ajout d'un fond graphique subtil avec des cercles radiaux */
+body::before {
+    content: "";
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: 
+        radial-gradient(circle at 20% 30%, rgba(238, 196, 201, 0.2) 5%, transparent 20%),
+        radial-gradient(circle at 80% 50%, rgba(0, 31, 84, 0.1) 7%, transparent 30%),
+        radial-gradient(circle at 50% 80%, rgba(238, 196, 201, 0.1) 10%, transparent 40%);
+    z-index: -1;
+}
+
+/* 📌 Carte de chaque profil utilisateur */
+.profile-item {
+    background: #fff;
+    border-radius: 15px;
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    text-align: center;
+    border: 2px solid #EEC4C9;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* 📌 Effet de survol sur la carte */
+.profile-item:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+}
+
+/* 📌 Image de profil circulaire */
+.profile-item img.profile-image {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 3px solid #EEC4C9;
+    margin-bottom: 10px;
+}
+
+/* 📌 Nom du profil */
+.profile-item h3 {
+    font-size: 1.5em;
+    color: #001F54;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+/* 📌 Description courte */
+.profile-item p {
+    font-size: 1.1em;
+    color: #001F54;
+    margin: 5px 0;
+}
+
+/* 📌 Affichage du nombre de likes */
+.profile-item .like-count {
+    font-size: 1.1em;
+    font-weight: bold;
+    color: #E63946; /* Rouge doux */
+    margin-top: 8px;
+}
+
+.profile-item .like-count i {
+    margin-right: 5px;
+    color: #E63946;
+}
+
+/* 📌 Affichage des centres d'intérêt */
+.interests-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 8px;
+    padding-top: 10px;
+}
+
+/* 📌 Badge pour chaque centre d’intérêt */
+.profile-item .interests {
+    background: #EEC4C9;
+    color: #001F54;
+    padding: 6px 12px;
+    border-radius: 20px;
+    font-size: 0.9em;
+    display: inline-block;
+    transition: transform 0.3s ease, background 0.3s ease;
+}
+
+.profile-item .interests:hover {
+    background: #FFC1E3;
+    transform: scale(1.05);
+}
+
+/* 📌 Titre principal des sections */
+h2 {
+    text-align: center;
+    color: #001F54;
+    font-size: 2.4em;
+    margin-top: 30px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    position: relative;
+    display: inline-block;
+    padding-bottom: 10px;
+    margin-bottom: 40px;
+}
+
+/* 📌 Soulignement décoratif sous le titre */
+h2::after {
+    content: "";
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: 0;
+    width: 60%;
+    height: 4px;
+    background-color: #EEC4C9;
+    border-radius: 5px;
+}
+
+/* 📌 Barre de recherche stylisée */
+.search-bar form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 15px;
+    background: #fff;
+    padding: 10px 20px;
+    border: 2px solid #EEC4C9;
+    border-radius: 30px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s ease, transform 0.3s ease;
+}
+
+.search-bar form:hover {
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+    transform: scale(1.02);
+}
+
+/* 📌 Champ texte de recherche */
+.search-bar input[type="text"] {
+    flex: 1;
+    border: none;
+    font-size: 1.2em;
+    color: #001F54;
+    padding: 10px 15px;
+    border-radius: 20px;
+    background: #f8f9fa;
+    box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: background 0.3s ease, box-shadow 0.3s ease;
+}
+
+.search-bar input[type="text"]:focus {
+    background: #fff;
+    box-shadow: 0 0 8px rgba(238, 196, 201, 0.6);
+    outline: none;
+}
+
+/* 📌 Bouton de recherche */
+.search-bar button {
+    background-color: #EEC4C9;
+    color: #001F54;
+    font-weight: bold;
+    font-size: 1.1em;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: background 0.3s ease, transform 0.3s ease;
+}
+
+.search-bar button:hover {
+    background-color: #FFC1E3;
+    transform: scale(1.1);
+}
+
+/* 📌 Bouton pour remonter en haut de page */
+#scroll-to-top {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    width: 50px;
+    height: 50px;
+    background-color: #EEC4C9;
+    color: #001F54;
+    border-radius: 50%;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.5em;
+    cursor: pointer;
+    transition: transform 0.3s ease, opacity 0.3s ease;
+    opacity: 0;
+    visibility: hidden;
+    z-index: 1000;
+}
+
+#scroll-to-top:hover {
+    transform: scale(1.1);
+    background-color: #001F54;
+    color: #FFF;
+}
+
+#scroll-to-top.show {
+    opacity: 1;
+    visibility: visible;
+}
+
+/* 📌 Responsive pour mobile */
+@media (max-width: 768px) {
+    .profile-item {
+        width: 100%;
+    }
+
+    .profile-item img.profile-image {
+        width: 100px;
+        height: 100px;
+    }
+
+    .search-bar form {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .profile-item .like-count {
+        font-size: 1em;
+    }
+}
+
+/* 📌 Bouton personnalisé avec icône */
+a.btn.btn-primary {
+    background-color: #EEC4C9 !important;
+    color: #001F54 !important;
+    font-weight: bold;
+    font-size: 1.1em;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background 0.3s ease, transform 0.3s ease;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+a.btn.btn-primary i {
+    margin-right: 8px;
+    color: #001F54 !important;
+    font-size: 1.2em;
+}
+
+a.btn.btn-primary:hover {
+    background-color: #FFC1E3 !important;
+    transform: scale(1.05);
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.15);
+}
+
+/* 📌 Conteneur du widget Facebook intégré */
+.facebook-container {
+    width: 100%;
+    max-width: 380px;
+    margin: 50px auto 0;
+    text-align: center;
+    padding: 20px;
+    background: #fff;
+    border: 4px solid #EEC4C9;
+    border-radius: 20px;
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.15);
+    transition: transform 0.3s ease-in-out;
+}
+
+.facebook-container:hover {
+    transform: scale(1.03);
+}
+
+/* 📌 Titre avec icône Facebook */
+.facebook-container h2 {
+    font-size: 1.6em;
+    color: #001F54;
+    font-weight: bold;
+    text-transform: uppercase;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 15px;
+}
+
+.facebook-container h2 i {
+    font-size: 1.8em;
+    color: #1877F2; /* Bleu Facebook */
+}
+
+/* 📌 Style du conteneur du widget */
+.facebook-box {
+    background: linear-gradient(135deg, #fff, #f8f9fa);
+    padding: 15px;
+    border-radius: 15px;
+    box-shadow: inset 0px 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+}
+
+/* 📌 Style pour l’iframe Facebook */
+.fb-page {
+    width: 100% !important;
+    max-width: 100%;
+    height: 400px !important;
+    border-radius: 10px;
+}
+
+/* 📌 Responsive du widget Facebook */
+@media (max-width: 768px) {
+    .facebook-container {
+        max-width: 100%;
+        padding: 15px;
+    }
+}
