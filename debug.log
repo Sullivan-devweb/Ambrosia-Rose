@@ -1,0 +1,22 @@
+Session user_id: 6
+Reçu: user_id=6, event_id=0
+Session user_id: 6
+Reçu: user_id=6, event_id=12
+Session user_id: 6
+Reçu: user_id=6, event_id=12
+Session user_id: 2
+Reçu: user_id=2, event_id=13
+Session user_id: 2
+Reçu: user_id=2, event_id=13
+Session user_id: 2
+Reçu: user_id=2, event_id=13
+Session user_id: 2
+Reçu: user_id=2, event_id=0
+Erreur: ID de l'événement invalide.
+Session user_id: 2
+Reçu: user_id=2, event_id=14
+Session user_id: 2
+Reçu: user_id=2, event_id=0
+Erreur: ID de l'événement invalide.
+Session user_id: 2
+Reçu: user_id=2, event_id=15

@@ -1,0 +1,103 @@
+/* 📌 Footer */
+footer {
+    background-color: #001F54;
+    color: #DDD1BC;
+    padding: 20px;
+}
+
+/* 📌 Titres du footer */
+footer h5 {
+    font-size: 1.2em;
+    color: #DDD1BC;
+    position: relative;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+footer h5::after {
+    content: "";
+    position: absolute;
+    bottom: -5px;
+    left: 0;
+    width: 50px;
+    height: 3px;
+    background-color: #EEC4C9;
+    border-radius: 3px;
+}
+
+/* 📌 Liste des liens */
+footer ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+footer ul li {
+    margin-bottom: 6px;
+}
+
+footer ul li a {
+    color: #DDD1BC;
+    text-decoration: none; /* Supprime les soulignements */
+    font-size: 0.9em;
+    transition: color 0.3s ease;
+}
+
+footer ul li a:hover {
+    color: #EEC4C9;
+}
+
+/* 📌 Icônes */
+footer ul li i {
+    color: #EEC4C9;
+    margin-right: 8px;
+}
+
+/* 📌 Réseaux sociaux */
+footer .socials {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin: 15px 0;
+}
+
+footer .socials a {
+    font-size: 1.8rem;
+    color: #EEC4C9;
+    transition: transform 0.3s ease, color 0.3s ease;
+}
+
+footer .socials a:hover {
+    transform: scale(1.2);
+    color: #FFFFFF;
+}
+
+/* 📌 Bas du footer */
+.footer-bottom {
+    text-align: center;
+    margin-top: 15px;
+    font-size: 0.9em;
+    color: #DDD1BC;
+}
+
+.footer-bottom a {
+    color: #DDD1BC;
+    text-decoration: none;
+}
+
+.footer-bottom a:hover {
+    color: #EEC4C9;
+}
+
+/* 📌 Responsive */
+@media screen and (max-width: 768px) {
+    .footer-container {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+
+    footer .socials {
+        margin: 20px 0;
+    }
+}

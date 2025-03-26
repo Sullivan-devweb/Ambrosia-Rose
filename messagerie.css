@@ -1,0 +1,393 @@
+/* 📌 Style général */
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    color: #001F54;
+    background: linear-gradient(to right, #f8f9fa, #eef2f3);
+    text-align: center;
+    min-height: 100vh;
+}
+
+/* 🌟 Ajout d'un fond subtil */
+body::before {
+    content: "";
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: radial-gradient(circle at 20% 30%, rgba(238, 196, 201, 0.2) 5%, transparent 20%),
+                      radial-gradient(circle at 80% 50%, rgba(0, 31, 84, 0.1) 7%, transparent 30%),
+                      radial-gradient(circle at 50% 80%, rgba(238, 196, 201, 0.1) 10%, transparent 40%);
+    z-index: -1;
+}
+
+/* 📌 Container principal */
+.container-fluid {
+    flex: 1;
+    display: block !important;
+    flex-direction: column;
+    padding-top: 60px; /* Ajouter un écart entre le container et la barre de navigation */
+}
+
+/* 📌 Message redirigeant vers l'accueil */
+.accueil-message {
+    text-align: center;
+    margin: 20px auto;
+    padding: 15px;
+    background-color: #ffffff;
+    border-radius: 15px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    max-width: 400px;
+}
+
+.accueil-message p {
+    font-size: 1em;
+    color: #001F54;
+    margin-bottom: 15px;
+}
+
+.accueil-message a.btn.btn-primary {
+    background-color: #EEC4C9 !important; /* Rose pâle */
+    color: #001F54 !important; /* Bleu foncé */
+    font-weight: bold;
+    font-size: 0.9em;
+    border: none;
+    padding: 8px 12px;
+    border-radius: 20px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    transition: background 0.3s ease, transform 0.3s ease;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.accueil-message a.btn.btn-primary i {
+    margin-right: 8px;
+    color: #001F54 !important;
+    font-size: 1em;
+}
+
+.accueil-message a.btn.btn-primary:hover {
+    background-color: #FFC1E3 !important; /* Rose plus vif */
+    transform: scale(1.05);
+    box-shadow: 0 6px 15px rgba(0, 0, 0, 0.15);
+}
+
+/* 📌 Messagerie */
+.messagerie {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    background: #F7F7F7;
+    border-radius: 20px;  /* Augmenter le border-radius */
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.1);
+    padding: 40px;  /* Ajuster le padding */
+    margin: 20px auto;  /* Centrer la messagerie et ajuster la marge */
+    width: 90%;  /* Augmenter la largeur */
+    max-width: 1400px;  /* Limiter la largeur maximale */
+    height: 85vh;  /* Augmenter la hauteur */
+}
+
+/* 📌 En-tête de la messagerie */
+.header {
+    display: flex;
+    align-items: center;
+    background-color: #001F54;
+    color: white;
+    padding: 10px;
+}
+
+.header .contact-info {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.header .contact-info h2 {
+    margin: 0;
+}
+
+.header .profile-status {
+    margin-top: 5px;
+}
+
+.profile-status .online-status {
+    color: green;
+}
+
+.profile-status .last-connection {
+    color: gray;
+}
+
+/* 📌 Messages */
+.messagerie .messages {
+    flex-grow: 1;
+    overflow-y: auto; /* Permettre le défilement */
+    background-color: #FFFFFF;
+    color: #001F54;
+    padding: 30px;  /* Augmenter le padding */
+    display: flex;
+    flex-direction: column;
+    gap: 20px;  /* Augmenter l'écart entre les messages */
+    border-radius: 12px;
+}
+
+/* 📌 Conteneur de message */
+.message-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.message-container.user {
+    align-items: flex-end;
+}
+
+/* 📌 En-tête de message */
+.message-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.message-header .name {
+    margin-right: 10px;
+}
+
+/* 📌 Message unique */
+.messagerie .message {
+    max-width: 70%;  /* Augmenter la largeur maximale */
+    position: relative;
+    padding: 20px;  /* Augmenter le padding */
+    border-radius: 12px;
+    background: #DDD1BC;
+}
+
+/* 📌 Message utilisateur */
+.messagerie .message.user {
+    background: #D1E7DD;
+}
+
+/* 📌 Message autre */
+.messagerie .message.other {
+    background: #E2E3E5;
+}
+
+/* 📌 Bulle de message */
+.messagerie .message .message-bubble {
+    display: flex;
+    flex-direction: row;  /* Aligner le contenu et les actions horizontalement */
+    justify-content: space-between;
+    gap: 5px;
+    width: 100%;
+}
+
+/* 📌 Contenu du message */
+.messagerie .message .message-content {
+    flex: 1;
+}
+
+/* 📌 Actions de message */
+.messagerie .message .actions {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;  /* Augmenter l'écart entre les boutons d'action */
+}
+
+.messagerie .message .actions button {
+    background: none;
+    border: none;
+    cursor: pointer;
+    color: inherit; /* Garder la couleur du texte */
+    padding: 8px; /* S'assurer que l'action prend toute la surface de l'icône */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* 📌 Boutons d'action */
+.messagerie .message .actions button.edit {
+    color: #007bff;
+}
+
+.messagerie .message .actions button.delete {
+    color: #dc3545;
+}
+
+.actions {
+    display: flex;
+    gap: 8px; /* Espace entre les boutons */
+}
+
+.actions button {
+    background: none;
+    border: none;
+    padding: 8px; /* Taille du bouton */
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.actions button i {
+    font-size: 16px; /* Taille de l'icône */
+}
+
+/* 📌 Zone de saisie */
+.messagerie .zone-saisie {
+    display: flex;
+    align-items: center;
+    padding: 20px;  /* Augmenter le padding */
+    background-color: #f9f9f9;
+    border-top: 1px solid #e0e0e0;
+    position: sticky;
+    bottom: 0;
+    width: 100%;
+}
+
+.messagerie .zone-saisie input {
+    border: none;
+    border-radius: 20px;
+    outline: none;
+    font-size: 18px;  /* Augmenter la taille de la police */
+    transition: border 0.3s ease;
+    padding: 15px;  /* Augmenter le padding */
+    margin-right: 10px;
+    flex: 1;
+}
+
+.messagerie .zone-saisie button {
+    background-color: #001F54;
+    color: #fff;
+    border: none;
+    border-radius: 20px;
+    padding: 15px 30px;  /* Augmenter le padding */
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.messagerie .zone-saisie button:hover {
+    background: #00123d;
+}
+
+/* 📌 Options */
+.messagerie .options {
+    position: relative;
+}
+
+.messagerie .options button {
+    background-color: #fff;
+    border: none;
+    border-radius: 50%;
+    padding: 15px;  /* Augmenter le padding */
+    transition: background-color 0.3s ease;
+}
+
+.messagerie .options button:hover {
+    background-color: #EEC4C9;
+}
+
+.messagerie .options img {
+    width: 30px;  /* Augmenter la taille de l'image */
+    height: 30px;  /* Augmenter la taille de l'image */
+    filter: none;
+}
+
+/* 📌 Emoji picker */
+.emoji-picker-container {
+    position: relative;
+    display: inline-block;
+}
+
+.emoji-selector {
+    position: absolute;
+    bottom: 50px; /* Positionner au-dessus du bouton */
+    left: 0;
+    display: none;
+    z-index: 10;
+    background: white; /* Ajouter un fond blanc pour le picker */
+    border: 1px solid #ccc; /* Ajouter une bordure */
+    border-radius: 10px; /* Ajouter un border-radius */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Ajouter une ombre */
+}
+
+.emoji-selector.d-none {
+    display: none;
+}
+
+.emoji-selector.d-block {
+    display: block;
+}
+
+/* 📌 Image miniature */
+.img-thumbnail {
+    width: 60px;  /* Augmenter la taille de l'image */
+    height: 60px;  /* Augmenter la taille de l'image */
+    border-radius: 50%;
+    margin-left: 10px;
+}
+
+/* 📌 Aperçu d'image et de vidéo */
+.img-preview, .video-preview {
+    max-width: 100%;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+.selected {
+    background-color: #e0e0e0;
+}
+
+.bg-primary {
+    background-color: #001F54 !important;
+}
+
+.text-white {
+    color: #fff !important;
+}
+
+.bg-light {
+    background-color: #f8f9fa !important;
+}
+
+/* 📌 Responsive */
+@media (max-width: 768px) {
+    .messagerie {
+        margin: 20px 10px;
+        padding: 20px;
+        width: 90%;  /* Ajuster la largeur sur mobile */
+        height: auto;  /* Permettre la hauteur automatique sur mobile */
+    }
+
+    .messagerie .messages {
+        padding: 10px;
+    }
+
+    .messagerie .zone-saisie {
+        flex-direction: column;
+        padding: 10px;
+    }
+
+    .messagerie .zone-saisie input {
+        font-size: 14px;
+        padding: 10px;
+    }
+
+    .messagerie .zone-saisie button {
+        font-size: 14px;
+        padding: 10px;
+    }
+
+    .messagerie .options {
+        justify-content: space-between;
+        width: 100%;
+    }
+
+    .messagerie .emoji-selector {
+        bottom: auto;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 80%;
+    }
+}

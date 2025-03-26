@@ -1,0 +1,97 @@
+/* 📌 Style général */
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    background: linear-gradient(to right, #f8f9fa, #eef2f3);
+    color: #001F54;
+}
+
+/* 📌 Conteneur du formulaire */
+.login-container {
+    max-width: 400px;
+    width: 100%;
+    padding: 25px;
+    border-radius: 10px;
+    background: #FFF;
+    border: 2px solid #EEC4C9; /* Rose doux */
+    box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.1);
+}
+
+/* 📌 Titre */
+.login-container h1 {
+    font-size: 2em;
+    font-weight: bold;
+    color: #001F54; /* Bleu foncé */
+}
+
+/* 📌 Champs de formulaire */
+.form-control {
+    border: 2px solid #EEC4C9; /* Rose doux */
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 1em;
+    color: #001F54;
+    background: #FFF;
+}
+
+.form-control:focus {
+    outline: none;
+    border-color: #EEC4C9;
+    background: #FFF5F7;
+}
+
+/* 📌 Conteneur du champ mot de passe */
+.input-group-text {
+    background: #FFF;
+    border: 2px solid #EEC4C9;
+}
+
+.input-group-text i {
+    color: #001F54;
+    transition: color 0.3s ease;
+}
+
+.input-group-text:hover i {
+    color: #EEC4C9;
+}
+
+/* 📌 Bouton de connexion */
+.btn-primary {
+    background-color: #EEC4C9; /* Rose doux */
+    border: none;
+    font-size: 1em;
+    padding: 12px;
+    border-radius: 25px;
+    cursor: pointer;
+    transition: 0.3s ease;
+    color: #001F54; /* Bleu foncé */
+}
+
+.btn-primary:hover {
+    background-color: #001F54;
+    color: #FFF;
+    box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.2);
+}
+
+/* 📌 Liens supplémentaires */
+.text-link {
+    color: #001F54;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.text-link:hover {
+    color: #EEC4C9;
+}
+
+/* 📌 Responsive */
+@media (max-width: 576px) {
+    .login-container {
+        padding: 20px;
+    }
+
+    .login-container h1 {
+        font-size: 1.8em;
+    }
+}
+

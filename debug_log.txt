@@ -1,0 +1,772 @@
+🔹 Requête reçue avec user_id=53 et sender_id=55
+🔹 Requête reçue avec user_id=53 et sender_id=55
+🔹 Requête reçue avec user_id=53 et sender_id=55
+🔹 Requête reçue avec user_id=53 et sender_id=55
+🔹 Requête reçue avec user_id=53 et sender_id=55
+🔹 Requête reçue avec user_id=53 et sender_id=55
+🔹 Requête reçue avec user_id=53 et sender_id=55
+🔹 Requête reçue avec user_id=53 et sender_id=55
+🔹 Requête reçue avec user_id=53 et sender_id=55
+🔹 Requête reçue avec user_id=53 et sender_id=55
+🔹 Requête reçue avec user_id=53 et sender_id=55
+🔹 Requête reçue avec user_id=53 et sender_id=55
+🔹 Requête reçue avec user_id=53 et sender_id=55
+🔹 Requête reçue avec user_id=53 et sender_id=55
+🔹 Requête reçue avec user_id=53 et sender_id=55
+🔹 Requête reçue avec user_id=53 et sender_id=55
+🔹 Requête reçue avec user_id=53 et sender_id=55
+🔹 Requête reçue avec user_id=53 et sender_id=55
+🔹 Requête reçue avec user_id=53 et sender_id=55
+🔹 Requête reçue avec user_id=53 et sender_id=55
+✅ Début du script
+❌ Erreur : Requête non-POST détectée
+✅ Début du script
+❌ Erreur : Requête non-POST détectée
+✅ Début du script
+✅ Données reçues : user_id=53, sender_id=55
+✅ Début du script
+✅ Données reçues : user_id=53, sender_id=55
+✅ Début du script
+✅ Données reçues : user_id=53, sender_id=55
+✅ Début du script
+✅ Données reçues : user_id=53, sender_id=55
+✅ Début du script
+✅ Données reçues : user_id=53, sender_id=55
+✅ Début du script
+✅ Données reçues : user_id=53, sender_id=55
+✅ Début du script
+✅ Données reçues : user_id=53, sender_id=55
+✅ Début du script
+✅ Données reçues : user_id=53, sender_id=55
+✅ Début du script
+✅ Données reçues : user_id=53, sender_id=55
+✅ Début du script
+✅ Données reçues : user_id=53, sender_id=55
+✅ Utilisateurs trouvés : Destinataire=samuel.pechinez@gmail.com, Expéditeur=Le_testeur test
+✅ Tentative d'envoi d'email à samuel.pechinez@gmail.com
+✅ Email envoyé avec succès à samuel.pechinez@gmail.com
+✅ Début du script
+✅ Données reçues : user_id=53, sender_id=55
+✅ Utilisateurs trouvés : Destinataire=samuel.pechinez@gmail.com, Expéditeur=Le_testeur test
+✅ Tentative d'envoi d'email à samuel.pechinez@gmail.com
+✅ Email envoyé avec succès à samuel.pechinez@gmail.com
+✅ Début du script
+✅ Données reçues : user_id=53, sender_id=55
+✅ Utilisateurs trouvés : Destinataire=samuel.pechinez@gmail.com, Expéditeur=Le_testeur test
+✅ Tentative d'envoi d'email à samuel.pechinez@gmail.com
+✅ Email envoyé avec succès à samuel.pechinez@gmail.com
+✅ Début du script
+✅ Données reçues : user_id=53, sender_id=55
+✅ Utilisateurs trouvés : Destinataire=samuel.pechinez@gmail.com, Expéditeur=Le_testeur test
+✅ Tentative d'envoi d'email à samuel.pechinez@gmail.com
+✅ Email envoyé avec succès à samuel.pechinez@gmail.com
+✅ Début du script
+✅ Données reçues : user_id=53, sender_id=55
+✅ Utilisateurs trouvés : Destinataire=samuel.pechinez@gmail.com, Expéditeur=Le_testeur test
+✅ Tentative d'envoi d'email à samuel.pechinez@gmail.com
+✅ Email envoyé avec succès à samuel.pechinez@gmail.com
+✅ Début du script
+❌ Erreur : Requête non-POST détectée
+✅ Début du script
+❌ Erreur : Requête non-POST détectée
+✅ Début du script
+❌ Erreur : Requête non-POST détectée
+✅ Début du script
+❌ Erreur : Requête non-POST détectée
+✅ Début du script
+❌ Erreur : Requête non-POST détectée
+✅ Début du script
+❌ Erreur : Requête non-POST détectée
+✅ Début du script
+✅ Données reçues : user_id=53, sender_id=55
+✅ Utilisateurs trouvés : Destinataire=samuel.pechinez@gmail.com, Expéditeur=Le_testeur test
+✅ Tentative d'envoi d'email à samuel.pechinez@gmail.com
+✅ Email envoyé avec succès à samuel.pechinez@gmail.com
+✅ Début du script
+✅ Données reçues : user_id=55, sender_id=53
+✅ Utilisateurs trouvés : Destinataire=gamerstar33470@gmail.com, Expéditeur=Samuel Pechinez
+✅ Tentative d'envoi d'email à gamerstar33470@gmail.com
+✅ Email envoyé avec succès à gamerstar33470@gmail.com
+✅ Début du script
+✅ Données reçues : user_id=55, sender_id=53
+✅ Utilisateurs trouvés : Destinataire=gamerstar33470@gmail.com, Expéditeur=Samuel Pechinez
+✅ Tentative d'envoi d'email à gamerstar33470@gmail.com
+✅ Email envoyé avec succès à gamerstar33470@gmail.com
+✅ Début du script
+✅ Données reçues : user_id=55, sender_id=53
+✅ Utilisateurs trouvés : Destinataire=gamerstar33470@gmail.com, Expéditeur=Samuel Pechinez
+✅ Tentative d'envoi d'email à gamerstar33470@gmail.com
+✅ Début du script
+✅ Données reçues : user_id=55, sender_id=53
+✅ Utilisateurs trouvés : Destinataire=gamerstar33470@gmail.com, Expéditeur=Samuel Pechinez
+✅ Tentative d'envoi d'email à gamerstar33470@gmail.com
+✅ Email envoyé avec succès à gamerstar33470@gmail.com
+✅ Début du script
+✅ Données reçues : user_id=48, sender_id=53
+✅ Utilisateurs trouvés : Destinataire=dewinnesullivan10@gmail.com, Expéditeur=Samuel Pechinez
+✅ Tentative d'envoi d'email à dewinnesullivan10@gmail.com
+✅ Email envoyé avec succès à dewinnesullivan10@gmail.com
+✅ Début du script
+✅ Données reçues : user_id=55, sender_id=53
+✅ Utilisateurs trouvés : Destinataire=gamerstar33470@gmail.com, Expéditeur=Samuel Pechinez
+✅ Tentative d'envoi d'email à gamerstar33470@gmail.com
+✅ Email envoyé avec succès à gamerstar33470@gmail.com
+✅ Début du script
+✅ Données reçues : user_id=55, sender_id=53
+✅ Utilisateurs trouvés : Destinataire=gamerstar33470@gmail.com, Expéditeur=Samuel Pechinez
+✅ Tentative d'envoi d'email à gamerstar33470@gmail.com
+✅ Email envoyé avec succès à gamerstar33470@gmail.com
+✅ Début du script
+✅ Données reçues : user_id=55, sender_id=53
+✅ Utilisateurs trouvés : Destinataire=gamerstar33470@gmail.com, Expéditeur=Samuel Pechinez
+✅ Tentative d'envoi d'email à gamerstar33470@gmail.com
+✅ Email envoyé avec succès à gamerstar33470@gmail.com
+✅ Début du script
+✅ Données reçues : user_id=55, sender_id=53
+✅ Utilisateurs trouvés : Destinataire=gamerstar33470@gmail.com, Expéditeur=Samuel Pechinez
+✅ Tentative d'envoi d'email à gamerstar33470@gmail.com
+✅ Email envoyé avec succès à gamerstar33470@gmail.com
+✅ Début du script
+✅ Données reçues : user_id=55, sender_id=53
+✅ Utilisateurs trouvés : Destinataire=gamerstar33470@gmail.com, Expéditeur=Samuel Pechinez
+✅ Tentative d'envoi d'email à gamerstar33470@gmail.com
+✅ Email envoyé avec succès à gamerstar33470@gmail.com
+✅ Début du script
+✅ Données reçues : user_id=55, sender_id=53
+✅ Utilisateurs trouvés : Destinataire=gamerstar33470@gmail.com, Expéditeur=Samuel Pechinez
+✅ Tentative d'envoi d'email à gamerstar33470@gmail.com
+✅ Email envoyé avec succès à gamerstar33470@gmail.com
+✅ Début du script
+✅ Données reçues : user_id=55, sender_id=53
+✅ Utilisateurs trouvés : Destinataire=gamerstar33470@gmail.com, Expéditeur=Samuel Pechinez
+✅ Tentative d'envoi d'email à gamerstar33470@gmail.com
+✅ Début du script
+✅ Données reçues : user_id=55, sender_id=53
+✅ Utilisateurs trouvés : Destinataire=gamerstar33470@gmail.com, Expéditeur=Samuel Pechinez
+✅ Tentative d'envoi d'email à gamerstar33470@gmail.com
+✅ Email envoyé avec succès à gamerstar33470@gmail.com
+✅ Début du script
+✅ Données reçues : user_id=48, sender_id=53
+✅ Utilisateurs trouvés : Destinataire=dewinnesullivan10@gmail.com, Expéditeur=Samuel Pechinez
+✅ Tentative d'envoi d'email à dewinnesullivan10@gmail.com
+✅ Email envoyé avec succès à dewinnesullivan10@gmail.com
+✅ Début du script
+✅ Données reçues : user_id=48, sender_id=53
+✅ Utilisateurs trouvés : Destinataire=dewinnesullivan10@gmail.com, Expéditeur=Samuel Pechinez
+✅ Tentative d'envoi d'email à dewinnesullivan10@gmail.com
+✅ Email envoyé avec succès à dewinnesullivan10@gmail.com
+✅ Début du script
+✅ Données reçues : user_id=48, sender_id=53
+✅ Utilisateurs trouvés : Destinataire=dewinnesullivan10@gmail.com, Expéditeur=Samuel Pechinez
+✅ Tentative d'envoi d'email à dewinnesullivan10@gmail.com
+✅ Email envoyé avec succès à dewinnesullivan10@gmail.com
+✅ Début du script
+✅ Données reçues : user_id=48, sender_id=53
+✅ Utilisateurs trouvés : Destinataire=dewinnesullivan10@gmail.com, Expéditeur=Samuel Pechinez
+✅ Tentative d'envoi d'email à dewinnesullivan10@gmail.com
+✅ Email envoyé avec succès à dewinnesullivan10@gmail.com
+✅ Début du script
+✅ Données reçues : user_id=48, sender_id=53
+✅ Utilisateurs trouvés : Destinataire=dewinnesullivan10@gmail.com, Expéditeur=Samuel Pechinez
+✅ Tentative d'envoi d'email à dewinnesullivan10@gmail.com
+✅ Email envoyé avec succès à dewinnesullivan10@gmail.com
+✅ Début du script
+✅ Données reçues : user_id=48, sender_id=53
+✅ Utilisateurs trouvés : Destinataire=dewinnesullivan10@gmail.com, Expéditeur=Samuel Pechinez
+✅ Tentative d'envoi d'email à dewinnesullivan10@gmail.com
+✅ Début du script
+✅ Données reçues : user_id=66, sender_id=48
+✅ Utilisateurs trouvés : Destinataire=nikitsaifr@gmail.com, Expéditeur=Sullivan DEWINNE
+✅ Tentative d'envoi d'email à nikitsaifr@gmail.com
+✅ Email envoyé avec succès à nikitsaifr@gmail.com
+✅ Début du script
+✅ Données reçues : user_id=48, sender_id=53
+✅ Utilisateurs trouvés : Destinataire=dewinnesullivan10@gmail.com, Expéditeur=Samuel Pechinez
+✅ Tentative d'envoi d'email à dewinnesullivan10@gmail.com
+✅ Début du script
+✅ Données reçues : user_id=48, sender_id=53
+✅ Utilisateurs trouvés : Destinataire=dewinnesullivan10@gmail.com, Expéditeur=Samuel Pechinez
+✅ Tentative d'envoi d'email à dewinnesullivan10@gmail.com
+✅ Email envoyé avec succès à dewinnesullivan10@gmail.com
+✅ Début du script
+✅ Données reçues : user_id=48, sender_id=53
+✅ Utilisateurs trouvés : Destinataire=dewinnesullivan10@gmail.com, Expéditeur=Samuel Pechinez
+✅ Tentative d'envoi d'email à dewinnesullivan10@gmail.com
+✅ Email envoyé avec succès à dewinnesullivan10@gmail.com
+✅ Début du script
+✅ Données reçues : user_id=48, sender_id=53
+✅ Utilisateurs trouvés : Destinataire=dewinnesullivan10@gmail.com, Expéditeur=Samuel Pechinez
+✅ Tentative d'envoi d'email à dewinnesullivan10@gmail.com
+✅ Début du script
+✅ Données reçues : user_id=48, sender_id=53
+✅ Utilisateurs trouvés : Destinataire=dewinnesullivan10@gmail.com, Expéditeur=Samuel Pechinez
+✅ Tentative d'envoi d'email à dewinnesullivan10@gmail.com
+✅ Email envoyé avec succès à dewinnesullivan10@gmail.com
+✅ Début du script
+✅ Données reçues : user_id=48, sender_id=53
+❌ Annulation de l'email : Le like n'existe plus. user_id=48, sender_id=53
+✅ Début du script
+✅ Données reçues : user_id=48, sender_id=53
+✅ Like confirmé, envoi de l'email en cours...
+✅ Utilisateurs trouvés : Destinataire=dewinnesullivan10@gmail.com, Expéditeur=Samuel Pechinez
+✅ Tentative d'envoi d'email à dewinnesullivan10@gmail.com
+✅ Email envoyé avec succès à dewinnesullivan10@gmail.com
+✅ Début du script
+✅ Données reçues : user_id=48, sender_id=53
+❌ Annulation de l'email : Le like n'existe plus. user_id=48, sender_id=53
+✅ Début du script
+✅ Données reçues : user_id=48, sender_id=53
+✅ Like confirmé, envoi de l'email en cours...
+✅ Utilisateurs trouvés : Destinataire=dewinnesullivan10@gmail.com, Expéditeur=Samuel Pechinez
+✅ Tentative d'envoi d'email à dewinnesullivan10@gmail.com
+✅ Email envoyé avec succès à dewinnesullivan10@gmail.com
+✅ Début du script
+✅ Données reçues : user_id=52, sender_id=67
+❌ Annulation de l'email : Le like n'existe plus. user_id=52, sender_id=67
+✅ Début du script
+✅ Données reçues : user_id=48, sender_id=53
+✅ Like ajouté : Envoi de l'email...
+✅ Données reçues : user_id=48, sender_id=53
+✅ Like confirmé, envoi de l'email en cours...
+✅ Utilisateurs trouvés : Destinataire=dewinnesullivan10@gmail.com, Expéditeur=Samuel Pechinez
+✅ Tentative d'envoi d'email à dewinnesullivan10@gmail.com
+✅ Email envoyé avec succès à dewinnesullivan10@gmail.com
+✅ Début du script
+✅ Données reçues : user_id=48, sender_id=53
+❌ Annulation de l'email : Le like n'est pas nouveau (déjà existant ou supprimé).
+✅ Début du script
+✅ Données reçues : user_id=48, sender_id=53
+✅ Début du script
+✅ Données reçues : user_id=48, sender_id=53
+✅ Nouveau like détecté : Envoi de l'email...
+✅ Données reçues : user_id=48, sender_id=53
+✅ Like confirmé, envoi de l'email en cours...
+✅ Utilisateurs trouvés : Destinataire=dewinnesullivan10@gmail.com, Expéditeur=Samuel Pechinez
+✅ Tentative d'envoi d'email à dewinnesullivan10@gmail.com
+✅ Email envoyé avec succès à dewinnesullivan10@gmail.com
+✅ Début du script
+✅ Données reçues : user_id=48, sender_id=53
+✅ Like supprimé - Aucun email envoyé.
+✅ Début du script
+✅ Données reçues : user_id=48, sender_id=53
+❌ Erreur SQL : SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+✅ Nouveau like détecté : Envoi de l'email...
+✅ Données reçues : user_id=48, sender_id=53
+✅ Like confirmé, envoi de l'email en cours...
+✅ Utilisateurs trouvés : Destinataire=dewinnesullivan10@gmail.com, Expéditeur=Samuel Pechinez
+✅ Tentative d'envoi d'email à dewinnesullivan10@gmail.com
+✅ Email envoyé avec succès à dewinnesullivan10@gmail.com
+✅ Début du script
+✅ Données reçues : user_id=48, sender_id=53
+✅ Like supprimé - Aucun email envoyé.
+❌ Aucun email envoyé : Soit le like existait déjà, soit il a été supprimé.
+✅ Début du script
+✅ Données reçues : user_id=48, sender_id=53
+❌ Erreur SQL : SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+✅ Nouveau like détecté : Envoi de l'email...
+✅ Données reçues : user_id=48, sender_id=53
+✅ Like confirmé, envoi de l'email en cours...
+✅ Utilisateurs trouvés : Destinataire=dewinnesullivan10@gmail.com, Expéditeur=Samuel Pechinez
+✅ Tentative d'envoi d'email à dewinnesullivan10@gmail.com
+✅ Email envoyé avec succès à dewinnesullivan10@gmail.com
+✅ Début du script
+✅ Données reçues : user_id=48, sender_id=53
+✅ Like supprimé - Aucun email envoyé.
+❌ Aucun email envoyé : Soit le like existait déjà, soit il a été supprimé.
+✅ Début du script
+✅ Données reçues : user_id=48, sender_id=53
+❌ Erreur SQL : SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+✅ Nouveau like détecté : Envoi de l'email...
+✅ Données reçues : user_id=48, sender_id=53
+✅ Like confirmé, envoi de l'email en cours...
+✅ Utilisateurs trouvés : Destinataire=dewinnesullivan10@gmail.com, Expéditeur=Samuel Pechinez
+✅ Tentative d'envoi d'email à dewinnesullivan10@gmail.com
+✅ Email envoyé avec succès à dewinnesullivan10@gmail.com
+✅ Début du script
+✅ Données reçues : user_id=48, sender_id=53
+✅ Like supprimé - Aucun email envoyé.
+❌ Aucun email envoyé : Soit le like existait déjà, soit il a été supprimé.
+✅ Début du script
+✅ Données reçues : user_id=48, sender_id=53
+❌ Erreur SQL : SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+✅ Nouveau like détecté : Envoi de l'email...
+✅ Données reçues : user_id=48, sender_id=53
+✅ Like confirmé, envoi de l'email en cours...
+✅ Utilisateurs trouvés : Destinataire=dewinnesullivan10@gmail.com, Expéditeur=Samuel Pechinez
+✅ Tentative d'envoi d'email à dewinnesullivan10@gmail.com
+✅ Email envoyé avec succès à dewinnesullivan10@gmail.com
+✅ Début du script
+✅ Données reçues : user_id=49, sender_id=48
+❌ Erreur SQL : SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+✅ Début du script
+✅ Données reçues : user_id=49, sender_id=48
+✅ Début du script
+✅ Données reçues : user_id=49, sender_id=48
+✅ Like supprimé - Aucun email envoyé.
+❌ Aucun email envoyé : Soit le like existait déjà, soit il a été supprimé.
+✅ Début du script
+✅ Données reçues : user_id=49, sender_id=48
+✅ Début du script
+✅ Données reçues : user_id=49, sender_id=48
+❌ Erreur SQL : SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+✅ Début du script
+✅ Données reçues : user_id=49, sender_id=48
+✅ Début du script
+✅ Données reçues : user_id=49, sender_id=48
+✅ Nouveau like détecté : Envoi de l'email...
+✅ Données reçues : user_id=49, sender_id=48
+✅ Like confirmé, envoi de l'email en cours...
+✅ Utilisateurs trouvés : Destinataire=alex.piloiu92@yahoo.com, Expéditeur=Sullivan DEWINNE
+✅ Tentative d'envoi d'email à alex.piloiu92@yahoo.com
+✅ Like supprimé - Aucun email envoyé.
+✅ Début du script
+✅ Données reçues : user_id=49, sender_id=48
+❌ Aucun email envoyé : Soit le like existait déjà, soit il a été supprimé.
+✅ Début du script
+✅ Données reçues : user_id=49, sender_id=48
+✅ Début du script
+✅ Données reçues : user_id=49, sender_id=48
+❌ Erreur SQL : SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+✅ Début du script
+✅ Données reçues : user_id=49, sender_id=48
+✅ Email envoyé avec succès à alex.piloiu92@yahoo.com
+✅ Début du script
+✅ Données reçues : user_id=49, sender_id=48
+✅ Début du script
+✅ Données reçues : user_id=49, sender_id=48
+✅ Nouveau like détecté : Envoi de l'email...
+✅ Données reçues : user_id=49, sender_id=48
+✅ Like confirmé, envoi de l'email en cours...
+✅ Utilisateurs trouvés : Destinataire=alex.piloiu92@yahoo.com, Expéditeur=Sullivan DEWINNE
+✅ Tentative d'envoi d'email à alex.piloiu92@yahoo.com
+✅ Like supprimé - Aucun email envoyé.
+✅ Début du script
+✅ Données reçues : user_id=49, sender_id=48
+✅ Début du script
+✅ Données reçues : user_id=49, sender_id=48
+✅ Début du script
+✅ Données reçues : user_id=49, sender_id=48
+✅ Email envoyé avec succès à alex.piloiu92@yahoo.com
+❌ Aucun email envoyé : Soit le like existait déjà, soit il a été supprimé.
+❌ Erreur SQL : SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+✅ Début du script
+✅ Données reçues : user_id=49, sender_id=48
+✅ Début du script
+✅ Données reçues : user_id=49, sender_id=48
+✅ Début du script
+✅ Données reçues : user_id=49, sender_id=48
+✅ Like supprimé - Aucun email envoyé.
+❌ Aucun email envoyé : Soit le like existait déjà, soit il a été supprimé.
+✅ Début du script
+✅ Données reçues : user_id=49, sender_id=48
+❌ Aucun email envoyé : Soit le like existait déjà, soit il a été supprimé.
+✅ Début du script
+✅ Données reçues : user_id=49, sender_id=48
+✅ Début du script
+✅ Données reçues : user_id=49, sender_id=48
+❌ Aucun email envoyé : Soit le like existait déjà, soit il a été supprimé.
+❌ Erreur SQL : SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+✅ Début du script
+✅ Données reçues : user_id=49, sender_id=48
+✅ Début du script
+✅ Données reçues : user_id=49, sender_id=48
+✅ Début du script
+✅ Données reçues : user_id=49, sender_id=48
+✅ Nouveau like détecté : Envoi de l'email...
+✅ Données reçues : user_id=49, sender_id=48
+✅ Like confirmé, envoi de l'email en cours...
+✅ Utilisateurs trouvés : Destinataire=alex.piloiu92@yahoo.com, Expéditeur=Sullivan DEWINNE
+✅ Tentative d'envoi d'email à alex.piloiu92@yahoo.com
+✅ Like supprimé - Aucun email envoyé.
+✅ Début du script
+✅ Données reçues : user_id=49, sender_id=48
+❌ Aucun email envoyé : Soit le like existait déjà, soit il a été supprimé.
+❌ Aucun email envoyé : Soit le like existait déjà, soit il a été supprimé.
+✅ Début du script
+✅ Données reçues : user_id=49, sender_id=48
+✅ Début du script
+✅ Données reçues : user_id=49, sender_id=48
+❌ Erreur SQL : SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+✅ Début du script
+✅ Données reçues : user_id=49, sender_id=48
+✅ Email envoyé avec succès à alex.piloiu92@yahoo.com
+✅ Début du script
+✅ Données reçues : user_id=49, sender_id=48
+✅ Début du script
+✅ Données reçues : user_id=49, sender_id=48
+✅ Like supprimé - Aucun email envoyé.
+✅ Début du script
+✅ Données reçues : user_id=49, sender_id=48
+❌ Aucun email envoyé : Soit le like existait déjà, soit il a été supprimé.
+✅ Début du script
+✅ Données reçues : user_id=49, sender_id=48
+✅ Début du script
+✅ Données reçues : user_id=49, sender_id=48
+❌ Aucun email envoyé : Soit le like existait déjà, soit il a été supprimé.
+❌ Erreur SQL : SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+✅ Début du script
+✅ Données reçues : user_id=49, sender_id=48
+✅ Nouveau like détecté : Envoi de l'email...
+✅ Données reçues : user_id=49, sender_id=48
+✅ Like confirmé, envoi de l'email en cours...
+✅ Utilisateurs trouvés : Destinataire=alex.piloiu92@yahoo.com, Expéditeur=Sullivan DEWINNE
+✅ Tentative d'envoi d'email à alex.piloiu92@yahoo.com
+✅ Début du script
+✅ Données reçues : user_id=49, sender_id=48
+✅ Début du script
+✅ Données reçues : user_id=49, sender_id=48
+✅ Like supprimé - Aucun email envoyé.
+❌ Aucun email envoyé : Soit le like existait déjà, soit il a été supprimé.
+✅ Début du script
+✅ Données reçues : user_id=49, sender_id=48
+✅ Email envoyé avec succès à alex.piloiu92@yahoo.com
+❌ Aucun email envoyé : Soit le like existait déjà, soit il a été supprimé.
+❌ Aucun email envoyé : Soit le like existait déjà, soit il a été supprimé.
+❌ Aucun email envoyé : Soit le like existait déjà, soit il a été supprimé.
+✅ Début du script
+✅ Données reçues : user_id=49, sender_id=48
+✅ Début du script
+✅ Données reçues : user_id=49, sender_id=48
+❌ Erreur SQL : SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+✅ Début du script
+✅ Données reçues : user_id=49, sender_id=48
+✅ Début du script
+✅ Données reçues : user_id=49, sender_id=48
+✅ Début du script
+✅ Données reçues : user_id=49, sender_id=48
+✅ Nouveau like détecté : Envoi de l'email...
+✅ Données reçues : user_id=49, sender_id=48
+✅ Like confirmé, envoi de l'email en cours...
+✅ Utilisateurs trouvés : Destinataire=alex.piloiu92@yahoo.com, Expéditeur=Sullivan DEWINNE
+✅ Tentative d'envoi d'email à alex.piloiu92@yahoo.com
+✅ Like supprimé - Aucun email envoyé.
+✅ Début du script
+✅ Données reçues : user_id=49, sender_id=48
+❌ Aucun email envoyé : Soit le like existait déjà, soit il a été supprimé.
+✅ Début du script
+✅ Données reçues : user_id=49, sender_id=48
+✅ Début du script
+✅ Données reçues : user_id=49, sender_id=48
+✅ Email envoyé avec succès à alex.piloiu92@yahoo.com
+❌ Erreur SQL : SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+✅ Début du script
+✅ Données reçues : user_id=49, sender_id=48
+✅ Début du script
+✅ Données reçues : user_id=49, sender_id=48
+✅ Début du script
+✅ Données reçues : user_id=49, sender_id=48
+✅ Nouveau like détecté : Envoi de l'email...
+✅ Données reçues : user_id=49, sender_id=48
+✅ Like confirmé, envoi de l'email en cours...
+✅ Utilisateurs trouvés : Destinataire=alex.piloiu92@yahoo.com, Expéditeur=Sullivan DEWINNE
+✅ Tentative d'envoi d'email à alex.piloiu92@yahoo.com
+✅ Like supprimé - Aucun email envoyé.
+✅ Début du script
+✅ Données reçues : user_id=49, sender_id=48
+❌ Aucun email envoyé : Soit le like existait déjà, soit il a été supprimé.
+✅ Début du script
+✅ Données reçues : user_id=49, sender_id=48
+✅ Début du script
+✅ Données reçues : user_id=49, sender_id=48
+✅ Email envoyé avec succès à alex.piloiu92@yahoo.com
+❌ Erreur SQL : SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+✅ Début du script
+✅ Données reçues : user_id=49, sender_id=48
+✅ Début du script
+✅ Données reçues : user_id=49, sender_id=48
+✅ Début du script
+✅ Données reçues : user_id=49, sender_id=48
+✅ Nouveau like détecté : Envoi de l'email...
+✅ Données reçues : user_id=49, sender_id=48
+✅ Like confirmé, envoi de l'email en cours...
+✅ Utilisateurs trouvés : Destinataire=alex.piloiu92@yahoo.com, Expéditeur=Sullivan DEWINNE
+✅ Tentative d'envoi d'email à alex.piloiu92@yahoo.com
+✅ Like supprimé - Aucun email envoyé.
+✅ Début du script
+✅ Données reçues : user_id=49, sender_id=48
+❌ Aucun email envoyé : Soit le like existait déjà, soit il a été supprimé.
+✅ Début du script
+✅ Données reçues : user_id=49, sender_id=48
+✅ Email envoyé avec succès à alex.piloiu92@yahoo.com
+✅ Début du script
+✅ Données reçues : user_id=49, sender_id=48
+❌ Erreur SQL : SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+✅ Début du script
+✅ Données reçues : user_id=49, sender_id=48
+✅ Début du script
+✅ Données reçues : user_id=49, sender_id=48
+✅ Nouveau like détecté : Envoi de l'email...
+✅ Données reçues : user_id=49, sender_id=48
+✅ Like confirmé, envoi de l'email en cours...
+✅ Utilisateurs trouvés : Destinataire=alex.piloiu92@yahoo.com, Expéditeur=Sullivan DEWINNE
+✅ Tentative d'envoi d'email à alex.piloiu92@yahoo.com
+✅ Début du script
+✅ Données reçues : user_id=49, sender_id=48
+✅ Like supprimé - Aucun email envoyé.
+❌ Aucun email envoyé : Soit le like existait déjà, soit il a été supprimé.
+✅ Début du script
+✅ Données reçues : user_id=49, sender_id=48
+✅ Début du script
+✅ Données reçues : user_id=49, sender_id=48
+✅ Email envoyé avec succès à alex.piloiu92@yahoo.com
+❌ Erreur SQL : SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+✅ Début du script
+✅ Données reçues : user_id=49, sender_id=48
+✅ Début du script
+✅ Données reçues : user_id=49, sender_id=48
+✅ Like supprimé - Aucun email envoyé.
+✅ Début du script
+✅ Données reçues : user_id=49, sender_id=48
+❌ Aucun email envoyé : Soit le like existait déjà, soit il a été supprimé.
+✅ Début du script
+✅ Données reçues : user_id=49, sender_id=48
+❌ Erreur SQL : SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+✅ Début du script
+✅ Données reçues : user_id=49, sender_id=48
+✅ Début du script
+✅ Données reçues : user_id=49, sender_id=48
+✅ Début du script
+✅ Données reçues : user_id=49, sender_id=48
+✅ Nouveau like détecté : Envoi de l'email...
+✅ Données reçues : user_id=49, sender_id=48
+✅ Like confirmé, envoi de l'email en cours...
+✅ Utilisateurs trouvés : Destinataire=alex.piloiu92@yahoo.com, Expéditeur=Sullivan DEWINNE
+✅ Tentative d'envoi d'email à alex.piloiu92@yahoo.com
+✅ Like supprimé - Aucun email envoyé.
+❌ Aucun email envoyé : Soit le like existait déjà, soit il a été supprimé.
+❌ Aucun email envoyé : Soit le like existait déjà, soit il a été supprimé.
+✅ Début du script
+✅ Données reçues : user_id=49, sender_id=48
+✅ Email envoyé avec succès à alex.piloiu92@yahoo.com
+✅ Début du script
+✅ Données reçues : user_id=49, sender_id=48
+❌ Erreur SQL : SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+✅ Nouveau like détecté : Envoi de l'email...
+✅ Données reçues : user_id=49, sender_id=48
+✅ Like confirmé, envoi de l'email en cours...
+✅ Utilisateurs trouvés : Destinataire=alex.piloiu92@yahoo.com, Expéditeur=Sullivan DEWINNE
+✅ Tentative d'envoi d'email à alex.piloiu92@yahoo.com
+✅ Début du script
+✅ Données reçues : user_id=49, sender_id=48
+✅ Début du script
+✅ Données reçues : user_id=49, sender_id=48
+✅ Like supprimé - Aucun email envoyé.
+✅ Email envoyé avec succès à alex.piloiu92@yahoo.com
+❌ Aucun email envoyé : Soit le like existait déjà, soit il a été supprimé.
+✅ Début du script
+✅ Données reçues : user_id=49, sender_id=48
+✅ Début du script
+✅ Données reçues : user_id=49, sender_id=48
+❌ Erreur SQL : SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+✅ Nouveau like détecté : Envoi de l'email...
+✅ Données reçues : user_id=49, sender_id=48
+✅ Like confirmé, envoi de l'email en cours...
+✅ Utilisateurs trouvés : Destinataire=alex.piloiu92@yahoo.com, Expéditeur=Sullivan DEWINNE
+✅ Tentative d'envoi d'email à alex.piloiu92@yahoo.com
+✅ Début du script
+✅ Données reçues : user_id=49, sender_id=48
+✅ Début du script
+✅ Données reçues : user_id=49, sender_id=48
+✅ Nouveau like détecté : Envoi de l'email...
+✅ Données reçues : user_id=49, sender_id=48
+✅ Like confirmé, envoi de l'email en cours...
+✅ Utilisateurs trouvés : Destinataire=alex.piloiu92@yahoo.com, Expéditeur=Sullivan DEWINNE
+✅ Tentative d'envoi d'email à alex.piloiu92@yahoo.com
+✅ Like supprimé - Aucun email envoyé.
+✅ Début du script
+✅ Données reçues : user_id=49, sender_id=48
+❌ Aucun email envoyé : Soit le like existait déjà, soit il a été supprimé.
+✅ Email envoyé avec succès à alex.piloiu92@yahoo.com
+✅ Email envoyé avec succès à alex.piloiu92@yahoo.com
+❌ Aucun email envoyé : Soit le like existait déjà, soit il a été supprimé.
+✅ Début du script
+✅ Données reçues : user_id=49, sender_id=48
+❌ Aucun email envoyé : Soit le like existait déjà, soit il a été supprimé.
+❌ Erreur SQL : SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+✅ Début du script
+✅ Données reçues : user_id=49, sender_id=48
+✅ Like supprimé - Aucun email envoyé.
+❌ Aucun email envoyé : Soit le like existait déjà, soit il a été supprimé.
+❌ Aucun email envoyé : Soit le like existait déjà, soit il a été supprimé.
+✅ Début du script
+✅ Données reçues : user_id=49, sender_id=53
+❌ Erreur SQL : SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+✅ Nouveau like détecté : Envoi de l'email...
+✅ Données reçues : user_id=49, sender_id=53
+✅ Like confirmé, envoi de l'email en cours...
+✅ Utilisateurs trouvés : Destinataire=alex.piloiu92@yahoo.com, Expéditeur=Samuel Pechinez
+✅ Tentative d'envoi d'email à alex.piloiu92@yahoo.com
+✅ Email envoyé avec succès à alex.piloiu92@yahoo.com
+✅ Début du script
+✅ Données reçues : user_id=41, sender_id=48
+✅ Début du script
+✅ Données reçues : user_id=41, sender_id=48
+❌ Erreur SQL : SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+✅ Début du script
+✅ Données reçues : user_id=41, sender_id=48
+✅ Début du script
+✅ Données reçues : user_id=41, sender_id=48
+✅ Like supprimé - Aucun email envoyé.
+✅ Début du script
+✅ Données reçues : user_id=41, sender_id=48
+❌ Aucun email envoyé : Soit le like existait déjà, soit il a été supprimé.
+✅ Début du script
+✅ Données reçues : user_id=41, sender_id=48
+✅ Début du script
+✅ Données reçues : user_id=41, sender_id=48
+✅ Début du script
+✅ Données reçues : user_id=41, sender_id=48
+❌ Erreur SQL : SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+✅ Début du script
+✅ Données reçues : user_id=41, sender_id=48
+✅ Début du script
+✅ Données reçues : user_id=41, sender_id=48
+✅ Début du script
+✅ Données reçues : user_id=41, sender_id=48
+✅ Début du script
+✅ Données reçues : user_id=41, sender_id=48
+✅ Nouveau like détecté : Envoi de l'email...
+✅ Données reçues : user_id=41, sender_id=48
+✅ Like confirmé, envoi de l'email en cours...
+✅ Utilisateurs trouvés : Destinataire=jchrmamiah@gmail.com, Expéditeur=Sullivan DEWINNE
+✅ Tentative d'envoi d'email à jchrmamiah@gmail.com
+✅ Début du script
+✅ Données reçues : user_id=41, sender_id=48
+✅ Nouveau like détecté : Envoi de l'email...
+✅ Données reçues : user_id=41, sender_id=48
+✅ Like confirmé, envoi de l'email en cours...
+✅ Utilisateurs trouvés : Destinataire=jchrmamiah@gmail.com, Expéditeur=Sullivan DEWINNE
+✅ Tentative d'envoi d'email à jchrmamiah@gmail.com
+✅ Début du script
+✅ Données reçues : user_id=41, sender_id=48
+✅ Nouveau like détecté : Envoi de l'email...
+✅ Données reçues : user_id=41, sender_id=48
+✅ Like confirmé, envoi de l'email en cours...
+✅ Utilisateurs trouvés : Destinataire=jchrmamiah@gmail.com, Expéditeur=Sullivan DEWINNE
+✅ Tentative d'envoi d'email à jchrmamiah@gmail.com
+✅ Nouveau like détecté : Envoi de l'email...
+✅ Données reçues : user_id=41, sender_id=48
+✅ Like confirmé, envoi de l'email en cours...
+✅ Utilisateurs trouvés : Destinataire=jchrmamiah@gmail.com, Expéditeur=Sullivan DEWINNE
+✅ Tentative d'envoi d'email à jchrmamiah@gmail.com
+✅ Début du script
+✅ Données reçues : user_id=41, sender_id=48
+✅ Nouveau like détecté : Envoi de l'email...
+✅ Données reçues : user_id=41, sender_id=48
+✅ Like confirmé, envoi de l'email en cours...
+✅ Utilisateurs trouvés : Destinataire=jchrmamiah@gmail.com, Expéditeur=Sullivan DEWINNE
+✅ Tentative d'envoi d'email à jchrmamiah@gmail.com
+✅ Email envoyé avec succès à jchrmamiah@gmail.com
+✅ Début du script
+✅ Données reçues : user_id=41, sender_id=48
+✅ Nouveau like détecté : Envoi de l'email...
+✅ Données reçues : user_id=41, sender_id=48
+✅ Like confirmé, envoi de l'email en cours...
+✅ Utilisateurs trouvés : Destinataire=jchrmamiah@gmail.com, Expéditeur=Sullivan DEWINNE
+✅ Tentative d'envoi d'email à jchrmamiah@gmail.com
+✅ Début du script
+✅ Données reçues : user_id=41, sender_id=48
+✅ Nouveau like détecté : Envoi de l'email...
+✅ Données reçues : user_id=41, sender_id=48
+✅ Like confirmé, envoi de l'email en cours...
+✅ Utilisateurs trouvés : Destinataire=jchrmamiah@gmail.com, Expéditeur=Sullivan DEWINNE
+✅ Tentative d'envoi d'email à jchrmamiah@gmail.com
+✅ Email envoyé avec succès à jchrmamiah@gmail.com
+✅ Nouveau like détecté : Envoi de l'email...
+✅ Données reçues : user_id=41, sender_id=48
+✅ Like confirmé, envoi de l'email en cours...
+✅ Utilisateurs trouvés : Destinataire=jchrmamiah@gmail.com, Expéditeur=Sullivan DEWINNE
+✅ Tentative d'envoi d'email à jchrmamiah@gmail.com
+✅ Début du script
+✅ Données reçues : user_id=41, sender_id=48
+✅ Email envoyé avec succès à jchrmamiah@gmail.com
+✅ Nouveau like détecté : Envoi de l'email...
+✅ Données reçues : user_id=41, sender_id=48
+✅ Like confirmé, envoi de l'email en cours...
+✅ Utilisateurs trouvés : Destinataire=jchrmamiah@gmail.com, Expéditeur=Sullivan DEWINNE
+✅ Tentative d'envoi d'email à jchrmamiah@gmail.com
+✅ Début du script
+✅ Données reçues : user_id=41, sender_id=48
+✅ Like supprimé - Aucun email envoyé.
+✅ Début du script
+✅ Données reçues : user_id=41, sender_id=48
+❌ Aucun email envoyé : Soit le like existait déjà, soit il a été supprimé.
+✅ Début du script
+✅ Données reçues : user_id=41, sender_id=48
+✅ Début du script
+✅ Données reçues : user_id=41, sender_id=48
+✅ Début du script
+✅ Données reçues : user_id=41, sender_id=48
+❌ Aucun email envoyé : Soit le like existait déjà, soit il a été supprimé.
+✅ Début du script
+✅ Données reçues : user_id=41, sender_id=48
+✅ Email envoyé avec succès à jchrmamiah@gmail.com
+✅ Début du script
+✅ Données reçues : user_id=41, sender_id=48
+❌ Aucun email envoyé : Soit le like existait déjà, soit il a été supprimé.
+✅ Début du script
+✅ Données reçues : user_id=41, sender_id=48
+❌ Aucun email envoyé : Soit le like existait déjà, soit il a été supprimé.
+❌ Aucun email envoyé : Soit le like existait déjà, soit il a été supprimé.
+❌ Aucun email envoyé : Soit le like existait déjà, soit il a été supprimé.
+❌ Aucun email envoyé : Soit le like existait déjà, soit il a été supprimé.
+❌ Aucun email envoyé : Soit le like existait déjà, soit il a été supprimé.
+❌ Aucun email envoyé : Soit le like existait déjà, soit il a été supprimé.
+✅ Début du script
+✅ Données reçues : user_id=41, sender_id=48
+❌ Aucun email envoyé : Soit le like existait déjà, soit il a été supprimé.
+✅ Début du script
+✅ Données reçues : user_id=41, sender_id=48
+❌ Aucun email envoyé : Soit le like existait déjà, soit il a été supprimé.
+✅ Début du script
+✅ Données reçues : user_id=41, sender_id=48
+❌ Erreur SQL : SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+✅ Nouveau like détecté : Envoi de l'email...
+✅ Données reçues : user_id=41, sender_id=48
+✅ Like confirmé, envoi de l'email en cours...
+✅ Utilisateurs trouvés : Destinataire=jchrmamiah@gmail.com, Expéditeur=Sullivan DEWINNE
+✅ Tentative d'envoi d'email à jchrmamiah@gmail.com
+✅ Début du script
+✅ Données reçues : user_id=41, sender_id=48
+✅ Email envoyé avec succès à jchrmamiah@gmail.com
+✅ Like supprimé - Aucun email envoyé.
+❌ Aucun email envoyé : Soit le like existait déjà, soit il a été supprimé.
+✅ Début du script
+✅ Données reçues : user_id=41, sender_id=48
+❌ Erreur SQL : SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+✅ Nouveau like détecté : Envoi de l'email...
+✅ Données reçues : user_id=41, sender_id=48
+✅ Like confirmé, envoi de l'email en cours...
+✅ Utilisateurs trouvés : Destinataire=jchrmamiah@gmail.com, Expéditeur=Sullivan DEWINNE
+✅ Tentative d'envoi d'email à jchrmamiah@gmail.com
+✅ Email envoyé avec succès à jchrmamiah@gmail.com
+✅ Début du script
+✅ Données reçues : user_id=41, sender_id=48
+✅ Like supprimé - Aucun email envoyé.
+✅ Début du script
+✅ Données reçues : user_id=41, sender_id=48
+❌ Erreur SQL : SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+✅ Nouveau like détecté : Envoi de l'email...
+✅ Données reçues : user_id=41, sender_id=48
+✅ Like confirmé, envoi de l'email en cours...
+✅ Utilisateurs trouvés : Destinataire=jchrmamiah@gmail.com, Expéditeur=Sullivan DEWINNE
+✅ Tentative d'envoi d'email à jchrmamiah@gmail.com
+✅ Email envoyé avec succès à jchrmamiah@gmail.com
+✅ Début du script
+✅ Données reçues : user_id=48, sender_id=73
+❌ Erreur SQL : SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+✅ Nouveau like détecté : Envoi de l'email...
+✅ Données reçues : user_id=48, sender_id=73
+✅ Like confirmé, envoi de l'email en cours...
+✅ Utilisateurs trouvés : Destinataire=dewinnesullivan10@gmail.com, Expéditeur=Cadi Coulibaly 
+✅ Tentative d'envoi d'email à dewinnesullivan10@gmail.com
+✅ Email envoyé avec succès à dewinnesullivan10@gmail.com
+✅ Début du script
+✅ Données reçues : user_id=48, sender_id=70
+❌ Erreur SQL : SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+✅ Nouveau like détecté : Envoi de l'email...
+✅ Données reçues : user_id=48, sender_id=70
+✅ Like confirmé, envoi de l'email en cours...
+✅ Utilisateurs trouvés : Destinataire=dewinnesullivan10@gmail.com, Expéditeur=Adeline Flore  Monem
+✅ Tentative d'envoi d'email à dewinnesullivan10@gmail.com
+✅ Email envoyé avec succès à dewinnesullivan10@gmail.com
