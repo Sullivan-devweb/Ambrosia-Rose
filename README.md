@@ -12,6 +12,8 @@ Ambrosia Rose est une plateforme de rencontre innovante conçue pour offrir une 
 - 🔔 **Système de notifications** : Alertes pour les nouveaux messages, visites de profil et matchs.
 - 🛡️ **Sécurité renforcée** : Protection avancée des données pour garantir une expérience sûre et sereine.
 - 🌍 **Intégration API GeoNames** : Utilisation de l'API GeoNames pour améliorer la précision de la localisation et les fonctionnalités de recherche géographique.
+- 💳 **Paiement sécurisé** : Options de paiement en ligne sécurisées pour accéder à des fonctionnalités premium.
+- 🌟 **Mode Premium** : Accès à des fonctionnalités exclusives comme des filtres de recherche avancés, des boosts de profil, et plus encore.
 
 ## 🛠️ Installation
 Installez Ambrosia Rose en local en suivant ces étapes :
