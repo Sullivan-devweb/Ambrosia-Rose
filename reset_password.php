@@ -8,7 +8,7 @@
     <title>Réinitialisation du mot de passe</title>
     <!-- Inclure Bootstrap CSS -->
     <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="reset_password.css">
+    <link rel="stylesheet" href="css/reset_password.css">
 </head>
 <body>
     <div class="container d-flex justify-content-center align-items-center min-vh-100">
